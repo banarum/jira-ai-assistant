@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2024-01-08T11:00:41.007Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-ggbSgGzm3Iexs9geKXM" version="22.1.17" type="google">
+  <diagram name="Page-1" id="ai94XL0tGrE4T-1zI-di">
+    <mxGraphModel dx="1853" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pttcRhh1nx__ddFGhxFX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-4" target="pttcRhh1nx__ddFGhxFX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-4" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;You are JiraAssistanceBot, an automated service to create Jira tickets out of requirements&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=12;fontFamily=Helvetica;spacingLeft=4;spacingBottom=4;spacingRight=4;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-70" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-7" target="pttcRhh1nx__ddFGhxFX-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-7" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;greet the manager&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-9" target="pttcRhh1nx__ddFGhxFX-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-9" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;collects the requirements&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="250" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-11" target="pttcRhh1nx__ddFGhxFX-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-11" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;Make sure that they are not ambiguous&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="95" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-13" target="pttcRhh1nx__ddFGhxFX-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-13" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;Deduce the ticket title, description, type and priority from the requirements.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="450" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-15" target="pttcRhh1nx__ddFGhxFX-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-15" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;Make sure that the title is short and descriptive.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="90" y="540" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-17" target="pttcRhh1nx__ddFGhxFX-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-17" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;wait to collect all the requirements&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="90" y="630" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-19" target="pttcRhh1nx__ddFGhxFX-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-19" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;summarize it&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="90" y="720" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-21" target="pttcRhh1nx__ddFGhxFX-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-21" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;check for a final&lt;br&gt;time if the manager wants to add anything else&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="25" y="820" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-23" target="pttcRhh1nx__ddFGhxFX-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-23" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;Make sure to display the ticket title and description, type, priority&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="85" y="950" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-25" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;Make sure that summary is formatted in Jira style&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1040" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-27" target="pttcRhh1nx__ddFGhxFX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-27" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;You respond in a short, very conversational friendly style.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="90" y="30" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-31" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(8, 8, 8); font-size: 9.8pt;&quot;&gt;After the ticket is finalised, you thank the manager and add &#39;{&quot;ticket_is_finalised&quot;: true}&#39; to the end of the message.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1140" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.519;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pttcRhh1nx__ddFGhxFX-25" target="pttcRhh1nx__ddFGhxFX-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-33" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;Available ticket types are:&lt;br&gt;Frontend - Fix a Bug&lt;br&gt;Frontend - Story&lt;br&gt;Frontend - Design and Plan&lt;br&gt;Backend - Story&lt;br&gt;Backend - Design and Plan&lt;br&gt;Backend - Fix a Bug&lt;br&gt;Design - Create Mockup&lt;br&gt;Design - Update Design&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-70" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pttcRhh1nx__ddFGhxFX-34" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;Available ticket priorities are: &#39;Urgent&#39;, &#39;High&#39;, &#39;Standard&#39;, &#39;Low&#39;, &#39;Minor&#39;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="230" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

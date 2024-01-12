@@ -1,0 +1,5 @@
+create a json summary of the previous Jira ticket order
+1. title
+2. description
+3. type
+5. priority

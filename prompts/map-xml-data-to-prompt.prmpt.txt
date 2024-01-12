@@ -1,0 +1,11 @@
+You will be given a conversational graph inside """ """
+The graph will be presented as a JSON file.
+It will be an array of nodes.
+Each node has fields:
+id: a unique identifier for the node
+value: the text of the node
+connections: an id of another node that goes after this one in the conversation
+
+1. From each node extract 'value' fields
+2. Create a proper text commands from them
+
